@@ -28,6 +28,7 @@ Computer Vision: MediaPipe Hands
 shapes/
  ├── index.html   # Main application
  └── README.md
+ 
 🚀 Getting Started
 git clone https://github.com/devvvv100707/shapes.git
 cd shapes
@@ -41,7 +42,7 @@ Use Live Server (VS Code)
 
 👉 https://devvvv100707.github.io/shapes/
 
-⚠️ Requirements
+⚠️ Requirements - 
 Webcam access
 Good lighting conditions
 Chrome or any modern browser
@@ -56,10 +57,8 @@ Shape recognition (circle, square detection)
 Export drawings as images
 Multi-hand support
 Gesture customization
+
 👨‍💻 Author
-
 Dev Vashishtha
-
-⭐ Support
 
 If you found this project interesting, consider giving it a ⭐ on GitHub!
