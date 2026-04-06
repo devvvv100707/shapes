@@ -45,10 +45,6 @@ Use Live Server (VS Code)
 Webcam access
 Good lighting conditions
 Chrome or any modern browser
-📸 Preview
-<img src="https://via.placeholder.com/800x400?text=Add+Your+Screenshot+Here" alt="App Preview"/>
-
-(Replace with your actual screenshot for best impact)
 
 💡 Highlights
 No external frameworks — pure JavaScript implementation
