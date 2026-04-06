@@ -2,6 +2,9 @@
 
 Gesture-Based Drawing using Computer Vision
 
+
+
+
 🧠 Overview
 
 A browser-based drawing application that uses hand tracking and gesture recognition to replace traditional input devices.
@@ -10,7 +13,7 @@ Users can draw, move, and manage shapes in real time using natural finger gestur
 
 ✨ Key Features
 🎯 Finger Drawing — draw with index finger
-🤏 Pinch to Move — reposition shapes intuitively
+🤏 Pinch to Move — reposition shapes
 🎨 Custom Colors & Stroke Sizes
 🧹 Undo & Clear Canvas
 📦 Shape Management Panel
@@ -22,43 +25,42 @@ Gesture	Action
 ✌️ Two fingers	Stop drawing
 🛠️ Tech Stack
 Frontend: HTML5, CSS, JavaScript
-Canvas Rendering: HTML5 Canvas
+Rendering: HTML5 Canvas
 Computer Vision: MediaPipe Hands
 📂 Project Structure
 shapes/
- ├── index.html   # Main application
+ ├── index.html
  └── README.md
- 
 🚀 Getting Started
 git clone https://github.com/devvvv100707/shapes.git
 cd shapes
-
-Run locally:
-
-Open index.html
+Run Locally
+Open index.html in your browser
 or
 Use Live Server (VS Code)
 🌐 Live Demo
 
 👉 https://devvvv100707.github.io/shapes/
 
-⚠️ Requirements - 
+⚠️ Requirements
 Webcam access
 Good lighting conditions
 Chrome or any modern browser
+📸 Preview
+
+Add a screenshot here for better presentation
+(Drag & drop image into README on GitHub)
 
 💡 Highlights
-No external frameworks — pure JavaScript implementation
-Real-time gesture detection mapped to UI interactions
+Pure JavaScript (no frameworks)
+Real-time gesture detection mapped to UI
 Smooth drawing using curve interpolation
-Clean, modular logic for gesture handling
+Clean and modular logic
 🔮 Future Improvements
 Shape recognition (circle, square detection)
 Export drawings as images
 Multi-hand support
 Gesture customization
-
 👨‍💻 Author
-Dev Vashishtha
 
-If you found this project interesting, consider giving it a ⭐ on GitHub!
+Dev Vashishtha
