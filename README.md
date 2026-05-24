@@ -114,4 +114,4 @@ Dev Vashishtha
 
 ## ⭐ Support
 
-If you found this project interesting, consider giving it a star ⭐ on GitHub!
+If you found this project interesting, consider giving it a star ⭐
